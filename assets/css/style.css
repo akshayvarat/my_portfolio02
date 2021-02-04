@@ -1,13 +1,4 @@
-/**
-* Template Name: Personal - v3.0.0
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
+/*>>>>>>>>>>Akshay Varat ..................>>>>*/
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #040404;
@@ -132,10 +123,9 @@ h6 {
 @media (max-width: 992px) {
   #header h1 {
     font-size: 40px;
-    margin-left: -40%;
+    
   }
   #header h2 {
-    margin-left: 1%;
     font-size: 20px;
     line-height: 30px;
     text-shadow: 0.5px 0.5px 0.5px black;
